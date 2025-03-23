@@ -38,8 +38,11 @@ Efficiently managing and storing query data
 Developing a seamless frontend for user interaction
 
 ⏭️ Next Steps
+
 ✅ Improve model accuracy with additional training data
+
 ✅ Develop a user-friendly web application
+
 ✅ Launch as a public tool with community feedback
 
 👥 Team
