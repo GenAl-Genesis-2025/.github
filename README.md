@@ -1,5 +1,6 @@
 # .github
-Laplace's Demon AI
+**Laplace's Demon AI**
+
 📌 AI Hackathon Pitch
 🚀 Overview
 Laplace’s Demon AI is an innovative tool designed to analyze live crypto data using AI. The project leverages Google Colab for real-time processing, MongoDB for storing and timestamping user queries, and a GitHub repository for backend and frontend development.
@@ -42,6 +43,7 @@ Develop a user-friendly web application
 Launch as a public tool with community feedback
 
 👥 Team
+
 Laurent Cousineau
 
 Aiyaan Mahajan
