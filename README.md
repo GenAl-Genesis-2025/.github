@@ -43,6 +43,7 @@ Developing a seamless frontend for user interaction
 ✅ Launch as a public tool with community feedback
 
 👥 Team
+
 Laurent Cousineau
 
 Aiyaan Mahajan
